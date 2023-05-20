@@ -17,7 +17,7 @@ class Adapter(New):
 
 
 def main(obj):
-    print('Результат:' + obj.get())
+    print('Результат: ' + obj.get())
 
 
 if __name__ == '__main__':
